@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Lechia",
+		"leaderName": "Mieszko",
+		"adjective": ["lechitic"],
+		"startBias": ["Forest", "Avoid [Jungle]", "Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+        	"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"attacked": "What a fool ye are! Ye will end swiftly and miserably.",
+		"defeated": "The world is pitiful! There's no beauty in it, no wisdom. I am almost glad to go.",
+		"introduction": "The King of Lechia welcomes your Eminence to... Oh let's get this over with! I have a luncheon at four o'clock.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -27,12 +27,12 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Diplomatic Marriage",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
+		"cities": ["Gniezno", "Kruszwica", "Poznan", "Kalisz", "Biskupin", "Krakow", "Wroclaw", "Kolobrzeg", "Gdansk", "Lublin", "Plock", "Torun", "Czestochowa", "Legnica", "Bialystok", "Rzeszow", "Tarnow", "Opole", "Pszczyna", "Puck", "Zamosc", "Siedlce", "Ostroda", "Kwidzyn", "Grudziadz", "Warszawa", "Lomza", "Ostroleka", "Lowicz"]
 	}
 ]
